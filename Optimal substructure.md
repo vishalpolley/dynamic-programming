@@ -27,4 +27,4 @@
 1. [Longest path problem](https://en.wikipedia.org/wiki/Longest_path_problem)
 2. **Least-cost airline fare.** (Using on online flight search, we will frequently find that the cheapest flight from airport A to airport B involves a single connection through airport C, but the cheapest flight from airport A to airport C involves a connection through some other airport D.)
 
-***Article from :*** [WikiPedia](https://en.wikipedia.org/wiki/Optimal_substructure)
+***Article from :*** [Wikipedia](https://en.wikipedia.org/wiki/Optimal_substructure)
