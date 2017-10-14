@@ -4,7 +4,7 @@
 
 * This property is used to determine the usefulness of dynamic programming and greedy algorithms for a problem.
 
-<p style="text-align: center;"><img src="https://user-images.githubusercontent.com/20622980/31573738-772f9a72-b0df-11e7-900e-79d2ff73a979.png"></p>
+<p align="center"><img src="https://user-images.githubusercontent.com/20622980/31573738-772f9a72-b0df-11e7-900e-79d2ff73a979.png" /></p>
 
 ### Example
 
@@ -27,4 +27,4 @@
 1. [Longest path problem](https://en.wikipedia.org/wiki/Longest_path_problem)
 2. **Least-cost airline fare.** (Using on online flight search, we will frequently find that the cheapest flight from airport A to airport B involves a single connection through airport C, but the cheapest flight from airport A to airport C involves a connection through some other airport D.)
 
-***Article from :*** [Optimal substructure](https://en.wikipedia.org/wiki/Optimal_substructure)
+***Article from :*** [WikiPedia](https://en.wikipedia.org/wiki/Optimal_substructure)
