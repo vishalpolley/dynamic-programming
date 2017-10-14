@@ -1,4 +1,4 @@
-## Optimal substructure
+## [Optimal substructure](https://en.wikipedia.org/wiki/Optimal_substructure)
 
 * In computer science, a problem is said to have optimal substructure if an optimal solution can be constructed from optimal solutions of its subproblems.
 
